@@ -1,0 +1,23 @@
+# ATP Checker Agent Requirements
+
+# Autogen framework
+pyautogen>=0.2.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Data handling
+python-dateutil>=2.8.2
+
+# Excel support
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Optional: For advanced LLM features
+openai>=1.0.0
+
+# Development dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
